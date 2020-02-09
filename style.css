@@ -21,9 +21,10 @@ p{
         font-size: 20px;
 }
 body {
-        background-image: url(https://avatars.mds.yandex.net/get-altay/1453927/2a000001698f4b25ac3de3e1305fed12d516/orig); 
+       /* background-image: url(https://avatars.mds.yandex.net/get-altay/1453927/2a000001698f4b25ac3de3e1305fed12d516/orig); 
         background-attachment: fixed;
         background-size: cover;
+        */
     }
 body    {
         color: rgb(255, 255, 255);
