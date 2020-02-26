@@ -1,6 +1,6 @@
 body {
-    /* margin: 0; */
-    background-image: url(fone_1.jpg);
+    margin: 0;
+    background-image: url(fone_2.jpg);
         /* Фоновое изображение выровнено по центру в горизонтальной и вертикальной плоскостях */   
         background-position: center center;      
         /* Фон не повторяется */   
@@ -12,26 +12,6 @@ body {
         /* Цвет фона, который будет отображаться при загрузке фоновой картинки*/   
         background-color: #464646; 
 }
-
-
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    width: 20%;
-    position: fixed;
-    height: 100%;
-    overflow: auto;
-}
-
-
-li a:hover:not(.active) {
-    background-color: #555;
-    color: white;
-
-
-}
-
 
 .button {
     display: inline-block;
@@ -72,3 +52,21 @@ li a:hover:not(.active) {
     opacity: 1;
     right: 0;
   }
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 20%;
+    position: fixed;
+    height: 100%;
+    overflow: auto;
+}
+
+
+li a:hover:not(.active) {
+    background-color: #555;
+    color: white;
+
+
+}
